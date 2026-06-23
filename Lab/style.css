@@ -1,0 +1,67 @@
+* {
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+}
+
+span {
+  color: red;
+}
+
+h2 {
+  color: red;
+  font-size: 16px;
+  margin: 0;
+}
+
+table {
+  width: 100%;
+}
+
+td {
+  padding: 4px;
+  vertical-align: top;
+}
+
+textarea {
+  width: 300px;
+}
+
+td:first-child {
+  width: 220px;
+  text-align: right;
+  font-weight: bold;
+}
+
+button:hover {
+  background-color: #e0e0e0;
+}
+
+label input {
+  vertical-align: middle;
+}
+
+td h2 {
+  text-align: left;
+  font-weight: bold;
+}
+
+td.description {
+  text-align: left;
+  font-weight: normal;
+}
+
+.input-standard {
+  width: 300px;
+}
+
+.input-amount {
+  width: 60px;
+}
+
+.input-months {
+  width: 40px;
+}
+
+.input-other {
+  width: 200px;
+}
